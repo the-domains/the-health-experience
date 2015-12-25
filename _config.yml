@@ -1,0 +1,28 @@
+name: The Health Experience
+favicon: null
+layout_spectrum: 0.1057873317040503
+typography_spectrum: 0.04181207227520645
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.0068551606964319944
+  lightness: 0.20356869883835316
+  saturation: 0.7909372330177575
+  rhythmicContrast: 0.6123339759651572
+purpose: []
